@@ -14,8 +14,9 @@ public class Main {
         usersFillContacts(myContacts);
 
         System.out.println(myContacts);
-        System.out.println("Hello");
-
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        // xaxaxaxaxaxaxaxax
     }
 
     public static void fillGroups(PhoneContacts contacts) {
